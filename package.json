@@ -40,9 +40,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "semantic-release": "^8.0.3"
   },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
