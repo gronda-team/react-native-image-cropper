@@ -1,6 +1,6 @@
 {
   "name": "@gronda-team/react-native-image-cropper",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "Crop image in React Native using pan to move, pinch to zoom -> capture to file or base64",
   "main": "src/index.js",
   "directories": {
@@ -10,7 +10,7 @@
     "test": "eslint ."
   },
   "repository": {
-    "url": "https://github.com/gronda-team/react-native-image-cropper.git.git"
+    "url": "https://github.com/gronda-team/react-native-image-cropper.git"
   },
   "keywords": [
     "imagecropper",
