@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@gronda-team/gl-react-native@^2.57.1":
+  version "2.57.1"
+  resolved "https://npm.pkg.github.com/download/@gronda-team/gl-react-native/2.57.1/e89e25a0e1f7ad0c21ac9b70602b1e87e53535e41dc65ccfd8ed62053a9646b6#0e032f967a9236f046397d540f4eb7f13da254cd"
+  integrity sha512-DELkllWSTYfHW7M1iHcY2RI13a82EzM1Rup6rtjQExRwq7RON51Y5ae+vcq4x54Xv40FlIeBdUdUuHBoN98Dmw==
+  dependencies:
+    invariant "2.2.0"
+
 "@semantic-release/commit-analyzer@^3.0.1":
   version "3.0.7"
   resolved "https://registry.yarnpkg.com/@semantic-release/commit-analyzer/-/commit-analyzer-3.0.7.tgz#dc955444a6d3d2ae9b8e21f90c2c80c4e9142b2f"
@@ -961,15 +968,10 @@ github@^12.0.0:
     mime "^2.0.3"
     netrc "^0.1.4"
 
-gl-react-native@^2.38.0:
-  version "2.47.0"
-  resolved "https://registry.yarnpkg.com/gl-react-native/-/gl-react-native-2.47.0.tgz#0d2418314973f6bd3bd7f83acf776caa61339baf"
-  dependencies:
-    invariant "2.2.0"
-
-gl-react@^2.2.8:
+gl-react@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/gl-react/-/gl-react-2.3.1.tgz#4a153eba80ad926a5474e8b5615f12b0288b6dc9"
+  integrity sha512-fXB+y+1zldUr75CZHX9CQ4lJodmy9oGgLLDAVdZksrHY08/+9YShOLpDSVppJxVpg+/XB+BLbpMyJW/QbIgJig==
   dependencies:
     invariant "2.2.1"
     prop-types "^15.5.10"
