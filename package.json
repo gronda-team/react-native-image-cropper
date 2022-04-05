@@ -1,5 +1,5 @@
 {
-  "name": "react-native-image-cropper",
+  "name": "@gronda-team/react-native-image-cropper",
   "version": "0.0.0-semantically-release",
   "description": "Crop image in React Native using pan to move, pinch to zoom -> capture to file or base64",
   "main": "src/index.js",
@@ -11,8 +11,7 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/stoffern/react-native-image-cropper.git"
+    "url": "https://github.com/gronda-team/react-native-image-cropper.git.git"
   },
   "keywords": [
     "imagecropper",
@@ -25,14 +24,14 @@
   "author": "Kristoffer Klevenberg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stoffern/react-native-image-cropper/issues"
+    "url": "https://github.com/gronda-team/react-native-image-cropper.git/issues"
   },
-  "homepage": "https://github.com/stoffern/react-native-image-cropper#readme",
+  "homepage": "https://github.com/gronda-team/react-native-image-cropper.git#readme",
   "dependencies": {
+    "@gronda-team/gl-react-native": "^2.57.1",
     "eslint": "^4.8.0",
     "eslint-plugin-react": "^7.4.0",
     "gl-react": "^2.3.1",
-    "gl-react-native": "git://github.com/gre/gl-react-native-v2.git#10d3dce593080301dc12e467cd5e1c3d22995167",
     "prop-types": "^15.6.0",
     "rect-clamp": "^0.0.0",
     "rect-crop": "^0.0.0"

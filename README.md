@@ -8,16 +8,16 @@ This Image cropper is based on the gl-react-native [library](https://github.com/
 
 ## Installation
 ```
-npm i -S react-native-image-cropper
+npm i -S @gronda-team/react-native-image-cropper
 ```
 or
 ```
-yarn add react-native-image-cropper
+yarn add @gronda-team/react-native-image-cropper
 ```
 
 ## Requirements
 - `gl-react` You need to install gl-react. `npm i -S gl-react` 
-- `gl-react-native` You need to install gl-react-native and link the repo in RN. `npm i -S gl-react-native & rnpm link` 
+- `gl-react-native` You need to install gl-react-native and link the repo in RN. `npm i -S @gronda-team/gl-react-native & rnpm link` 
 - `react-native` Android requires you to have RN 0.28 or higher!
 
 #### `{ImageCrop}` Props
@@ -42,7 +42,7 @@ yarn add react-native-image-cropper
 ## Example
 ```js
 ...
-import {ImageCrop} from 'react-native-image-cropper'
+import {ImageCrop} from '@gronda-team/react-native-image-cropper'
 
 
 ...

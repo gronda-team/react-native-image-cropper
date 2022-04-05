@@ -9,7 +9,7 @@ import {
   TouchableOpacity,
 } from 'react-native'
 
-import {ImageCrop} from 'react-native-image-cropper'
+import {ImageCrop} from '@gronda-team/react-native-image-cropper'
 
 class ExampleC extends Component {
   constructor(props) {

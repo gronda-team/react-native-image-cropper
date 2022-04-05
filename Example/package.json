@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "gl-react": "^2.2.8",
-    "gl-react-native": "^2.39.0",
+    "@gronda-team/gl-react-native": "^2.57.1",
     "react": "15.4.1",
     "react-native": "0.39.1",
-    "react-native-image-cropper": "^0.2.0"
+    "@gronda-team/react-native-image-cropper": "^0.2.0"
   },
   "devDependencies": {
     "babel-jest": "17.0.2",
